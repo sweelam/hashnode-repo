@@ -44,4 +44,4 @@ People prefer evidence; it is human nature to believe what we see and hear rathe
 
 Communication is not a soft skill for architects — it is a core competency. The language you use shapes how the team thinks. The decisions you make in isolation will be resisted. The proposals you share early will be owned collectively. None of this requires you to be the loudest voice in the room. It requires you to be the clearest one.
 
-> If you found this useful, these ideas are explored in much greater depth in **The Highway Path to Scalable Systems**, co-authored with Jasser Mahmoud.
+> If you found this useful, these topics are explored in much greater depth in our [book](https://leanpub.com/thehighwaypathtoscalablesystems) **The Highway Path to Scalable Systems**, co-authored with Jasser Mahmoud.
