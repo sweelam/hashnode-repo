@@ -46,6 +46,6 @@ Finding the right balance is the responsibility of engineering leadership. They 
 
 The case study reveals an uncomfortable truth about software leadership: **Cognitive load is a liability that does not appear on the balance sheet until it is too late.** While we diligently monitor CPU usage, memory leaks, and response latencies, we rarely instrument the *human* system for signs of overload—until the Golden Engineers walk out the door.
 
-The trap is insidious because it feels like productivity in the short term. A small, heroic team delivers features quickly on a monolithic codebase. But without deliberate, incremental investment in both **team growth** and **modular architecture**, that velocity is borrowed against future stability. The article correctly identifies the exit strategy: align team boundaries with system boundaries. However, as leaders, we must recognize that the window for this transition closes fast. Once attrition begins and documentation is missing, you are no longer building software; you are performing archaeology under fire.
+The trap is insidious because it feels like productivity in the short term. A small, heroic team delivers features quickly on a monolithic codebase. But without deliberate, incremental investment in both **team growth** and **modular architecture**, that velocity is borrowed against future stability. 
 
 The most sustainable system is not the one with the cleverest code; it is the one that a new hire can understand on their second Monday. Protect that, and you protect the business.
